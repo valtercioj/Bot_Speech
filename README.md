@@ -1,18 +1,16 @@
 # Bot_Speech
-Bot usando o Speech Recognition e chatterbot
+Bot using Speech Recognition and chatterbot
 
-projeto do chatterbot => https://pypi.org/project/ChatterBot/
+chatterbot project => https://pypi.org/project/ChatterBot/
 
-# instalação do chatterbot
-
+# chatterbot installation
 pip install chatterbot => python2
 
 pip3 install chatterbot => python3
 
-projeto do SpeechRecognition => hhttps://pypi.org/project/SpeechRecognition/
+SpeechRecognition project => hhttps: //pypi.org/project/SpeechRecognition/
 
-# instalação do SpeechRecognition
-
+# SpeechRecognition installation
 pip install SpeechRecognition => python2
 
 pip3 install SpeechRecognition => python3
